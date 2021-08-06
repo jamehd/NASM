@@ -1,3 +1,6 @@
+# Build foler
+out/
+
 # Prerequisites
 *.d
 
